@@ -1,0 +1,1 @@
+exports.set = require("./adapters/set.js")
